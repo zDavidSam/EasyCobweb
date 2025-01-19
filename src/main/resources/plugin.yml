@@ -1,0 +1,12 @@
+main: org.easycobweb.EasyCobweb
+version: 1.0.1
+api-version: 1.13
+author: retiredbydavid
+name: EasyCobweb
+depend: [WorldGuard, WorldEdit]
+
+commands:
+  easycobweb:
+    description: Comando Principal
+    aliases:
+      - cobweb
